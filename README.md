@@ -3,7 +3,7 @@
 We working for tesla, volvo vs. made otonom systems, today. This systems consist of two parts. First part detection and second part direction. Lane and traffic lights detection systems create and guidance is made according to the data obtained. for this operations should using Raspberry Pi 4 (avaliable Raspberry Pi 3).   
  
 In order for these stages to be tested, an RC Car infrastructure will be needed. The main products used are given in the link.
-
+![](https://github.com/hhbulat/SelfDrivingCar/blob/main/pics/1.png?raw=true)
 ###Targets
 In the picture above, the desired goals were given. The processes in the direction of achieving these goals will be explained step by step.
 

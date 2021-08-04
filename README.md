@@ -37,5 +37,6 @@ The general logic is to detect edges by applying a mask to the red color, to be 
 ![](https://github.com/hhbulat/SelfDrivingCar/blob/main/pics/1.png?raw=true)
 
 [Link to test videos](https://drive.google.com/drive/folders/1rCbAXBiJW5SK8wu499-4-jmYV4QqZ0oP?usp=sharing)
+
 Authors: [Linkedin by Hüseyin BULAT](https://tr.linkedin.com/in/hasan-h%C3%BCseyin-bulat-1a2208170?trk=public_profile_samename-profile) 
 [Linkedin by Atakan Kara](https://www.linkedin.com/in/atakan-kara-671846216/)

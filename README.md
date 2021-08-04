@@ -4,7 +4,8 @@ We working for tesla, volvo vs. made otonom systems, today. This systems consist
  
 In order for these stages to be tested, an RC Car infrastructure will be needed. The main products used are given in the link.
 ![](https://github.com/hhbulat/SelfDrivingCar/blob/main/pics/1.png?raw=true)
-###Targets
+
+### Targets
 In the picture above, the desired goals were given. The processes in the direction of achieving these goals will be explained step by step.
 
 # Lane Tracking System
